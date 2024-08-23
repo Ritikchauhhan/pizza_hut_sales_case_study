@@ -2,7 +2,7 @@ Pizza Hut Sales Analysis
 
 Overview
 
-This repository contains an analytical case study on Pizza Hut's sales performance. The study was conducted using SQL queries to extract and analyze data, with the primary objective of uncovering actionable insights to inform strategic business decisions. The analysis has been documented in a comprehensive PDF report, created with the help of Canva.com.
+This repository contains an analytical case study on Pizza Hut's sales performance. The study was conducted using SQL queries to extract and analyze data, with the primary objective of uncovering actionable insights to inform strategic business decisions. The analysis has been documented in a comprehensive PDF report, created with the help of Canva.com
 
 Contents
 Data Files:
